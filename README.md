@@ -19,6 +19,6 @@ Estou usando como base principal o curso de Versionamento de código com Git e G
  git clone <url> –branch <nomedabranch> –single-branch
 ```
 
-## 🃏 Referênciasssss
+## 🃏 Referências usadas
 
 - [Documentação da Sintaxe](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
